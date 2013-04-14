@@ -1,0 +1,28 @@
+# jemdoc: showsource
+= Guru Raghavendra Gorantla
+
+~~~
+[index.html Guru Gorantla], \n
+Masters Student, \n
+[http://www.ece.ucsd.edu/ Electrical and Computer Engineering], \n
+[http://ucsd.edu/ University of California, San Diego]
+~~~
+
+== Education
+- University of California, San Diego
+-- MS Electrical and Computer Engineering, 2012-Present.
+- National Institute of Technology, Surathkal
+-- B.Tech, Electrical Engineering, 2007-2011.
+
+== Contact
+Email: ggorantl@eng.ucsd.edu
+
+== Resume
+Click [files/guru_resume.pdf here] for my resume.
+
+
+
+#== Teaching
+#Teaching Assistant at University of Illinois, Urbana Champaign for
+#- Information Theory (ECE 563) - Fall 2008
+#- Adv. Digital Communications (ECE 461 and 562) - Spr 2009,Fall 2009.
