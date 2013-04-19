@@ -1,0 +1,128 @@
+{
+	"name": "skills",
+ 	"children": [
+ 	{
+ 		"name": "Machine Learning",
+ 		"children":[
+ 		{
+ 			"name": "Supervised Models",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "Unsupervised Models",
+ 			"progress": 1,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "With Big Data Tools",
+ 			"progress": 1,
+ 			"children": [
+ 			]
+ 		}
+ 		]
+ 	},
+ 	{
+ 		"name": "DataBases",	
+ 		"children":[
+ 		{
+ 			"name": "MySQL",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "PLSQL (IBM DataBases)",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		}
+ 		]
+ 	},
+ 	{
+ 		"name": "Programming",
+ 		"children":[
+ 		{
+ 			"name": "Data Structures",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "OOP: C++, Java",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "Unix, Regex",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		} 		 		
+ 		]
+ 	},
+ 	{
+ 		"name": "Signal Processing",
+ 		"children":[
+ 		{
+ 			"name": "Digital Signal Processing",
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "Computer Vision",
+ 			"children": [
+ 			]
+ 		}
+ 		]
+ 	},
+ 	{
+ 		"name": "Optimization",
+ 		"children":[
+ 		{
+ 			"name": "Convex Optimization",
+ 			"progress": 1,
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "Algorithms",
+ 			"progress": 1,
+ 			"children": [
+ 			]
+ 		}, 
+ 		{
+ 			"name": "Projects",
+ 			"progress": 1,
+ 			"children": [
+ 			]
+ 		} 		
+		]
+ 	},
+ 	{
+ 		"name": "Analytics",
+ 		"children":[
+ 		{
+ 			"name": "R, Matlab",
+ 			"children": [
+ 			]
+ 		},
+ 		{
+ 			"name": "Visualizations",
+ 			"progress": 0,
+ 			"children": [
+ 			]
+ 		}
+ 		]
+ 	},
+ 	{
+ 		"name": "Server-Side Applications",
+ 		"progress": 1,
+ 		"children":[
+ 		]
+ 	}
+ 	]
+}
